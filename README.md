@@ -10,4 +10,4 @@ Repository with an example of using the "Template Method" pattern
 
 ● Highlighting common behavior.
 
-● Abstract common behavior class
+● Abstract common behavior class.
